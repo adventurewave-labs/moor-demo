@@ -85,7 +85,7 @@
 <g transform="translate(360,-6)">
 <circle r="6" fill="none" stroke="#22d3ee" stroke-width="3"/>
 <path d="M0 6 v20 M-14 12 h28 M-8 26 l8 10 l8 -10" fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
-<animateTransform attributeName="transform" type="translate" additive="sum" values="360 -6;360 8;360 -6" dur="3.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 14;0 0" dur="3.4s" repeatCount="indefinite"/>
 </g>
 
 </g>
