@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="moor-demo — animated banner" width="100%"></p>
+
 # MOOR
 
 **A desired-state control plane for Docker environments.**
